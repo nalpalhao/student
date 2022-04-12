@@ -15,6 +15,7 @@ cycler
 dash-core-components
 dash-html-components
 dash-table
+dash_bootstrap_components
 decorator
 defusedxml
 docutils
