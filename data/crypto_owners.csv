@@ -1,0 +1,140 @@
+country,crypto_owners,pop_crypto,continent,iso3,perc_pop
+Albania,28559,0.0099,Europe,ALB,0.99
+Kenya,4580760,0.0852,Africa,KEN,8.52
+Angola,349536,0.0106,Africa,ANG,1.06
+Colombia,3122449,0.0614,South America,COL,6.14
+India,100740320,0.073,Asia,IND,7.3
+Argentina,1327067,0.0294,South America,ARG,2.94
+Brazil,10373187,0.0488,South America,BRA,4.88
+Armenia,33270,0.0112,Asia,ARM,1.12
+Australia,857553,0.0336,Oceania,AUS,3.36
+Austria,171578,0.0191,Europe,AUT,1.91
+Azerbaijan,98217,0.0097,Asia,AZE,0.97
+Belarus,352498,0.0373,Europe,BLR,3.73
+Bahrain,16685,0.0098,Asia,BHR,0.98
+Bangladesh,3742571,0.0227,Asia,BGD,2.27
+France,2179654,0.0334,Europe,FRA,3.34
+Barbados,3022,0.0105,North America,BRB,1.05
+Latvia,62091,0.0329,Europe,LVA,3.29
+Belgium,272990,0.0236,Europe,BEL,2.36
+Canada,1206627,0.032,North America,CAN,3.2
+Belize,3569,0.009,North America,BLZ,0.9
+Malaysia,1019405,0.0315,Asia,MYS,3.15
+Benin,161981,0.0134,Africa,BEM,1.34
+Ghana,934482,0.0301,Africa,GHA,3.01
+Georgia,115241,0.0289,Asia,GEO,2.89
+Bosnia and Herzegovina,45002,0.0137,Europe,BIH,1.37
+Ecuador,482496,0.0273,South America,ECU,2.73
+Botswana,25010,0.0106,Africa,BWA,1.06
+Indonesia,7285707,0.0266,Asia,IDN,2.66
+Germany,2191986,0.0262,Europe,DEU,2.62
+Chile,500125,0.0262,South America,CHL,2.62
+Lithuania,70254,0.0258,Europe,LTU,2.58
+Bulgaria,120842,0.0174,Europe,BGR,1.74
+Burkina Faso,197532,0.0094,Africa,BFA,0.94
+Estonia,32032,0.0241,Europe,EST,2.41
+Cambodia,225368,0.0135,Asia,KHM,1.35
+Cameroon,499423,0.0188,Africa,CMR,1.88
+Italy,1309499,0.0217,Europe,ITA,2.17
+El Salvador,125873,0.0194,North America,SLV,1.94
+Congo,61302,0.0111,Africa,COG,1.11
+Finland,104241,0.0188,Europe,FIN,1.88
+Greece,194860,0.0187,Europe,GRC,1.87
+Costa Rica,75913,0.0149,North America,CRI,1.49
+Dominican Republic,201516,0.0186,North America,DOM,1.86
+Croatia,62150,0.0151,Europe,HRV,1.51
+Cyprus,20139,0.0167,Asia,CYP,1.67
+Egypt,1791852,0.0175,Africa,EGY,1.75
+Denmark,79451,0.0137,Europe,DNK,1.37
+Kazakhstan,324325,0.0173,Asia,KAZ,1.73
+Ireland,84704,0.0172,Europe,IRL,1.72
+Japan,2079653,0.0164,Asia,JPN,1.64
+Ethiopia,1127264,0.0098,Africa,ETH,0.98
+Malta,6371,0.0144,Europe,MLT,1.44
+Gabon,20241,0.0091,Africa,GAB,0.91
+Hungary,131365,0.0136,Europe,HUN,1.36
+Guatemala,239375,0.0134,North America,GTM,1.34
+Jamaica,39214,0.0132,North America,JAM,1.32
+Jordan,129071,0.0127,Asia,JOR,1.27
+Israel,109493,0.0127,Asia,ISR,1.27
+Luxembourg,7325,0.0117,Europe,LUX,1.17
+Mali,232172,0.0115,Africa,MLI,1.15
+Haiti,107752,0.0094,North America,HTI,0.94
+Kuwait,47949,0.0112,Asia,KWT,1.12
+Honduras,101815,0.0103,North America,HND,1.03
+Iceland,3387,0.0099,Europe,ISL,0.99
+Madagascar,301061,0.0109,Africa,MDG,1.09
+Iraq,375328,0.0093,Asia,IRQ,0.93
+Lebanon,70158,0.0103,Asia,LBN,1.03
+Kyrgyzstan,63199,0.0097,Asia,KGZ,0.97
+Maldives,5108,0.0094,Asia,MDV,0.94
+Malawi,176240,0.0092,Africa,MWI,0.92
+Mauritius,20007,0.0157,Africa,MUS,1.57
+Mexico,3189799,0.0247,North America,MEX,2.47
+Montenegro,9955,0.0159,Europe,MNE,1.59
+Morocco,878168,0.0238,Africa,MAR,2.38
+Mozambique,499115,0.016,Africa,MOZ,1.6
+Myanmar,494815,0.0091,Asia,MMR,0.91
+Namibia,28529,0.0112,Africa,NAM,1.12
+Nepal,423840,0.0145,Asia,NPL,1.45
+Netherlands,521404,0.0304,Europe,NLD,3.04
+New Zealand,85008,0.0176,Oceania,NZL,1.76
+Nicaragua,73594,0.0111,North America,NIC,1.11
+Nigeria,13016341,0.0631,Africa,NGA,6.31
+Norway,93640,0.0173,Europe,NOR,1.73
+Oman,49467,0.0097,Asia,OMN,0.97
+Pakistan,9051827,0.041,Asia,PAK,4.1
+Panama,85779,0.0199,North America,PAN,1.99
+Papua New Guinea,79245,0.0089,Oceania,PNG,0.89
+Paraguay,75010,0.0105,South America,PRY,1.05
+Peru,1233892,0.0374,South America,PER,3.74
+Philippines,4360579,0.0398,Asia,PHL,3.98
+Poland,945298,0.025,Europe,POL,2.5
+Portugal,241389,0.0237,Europe,PRT,2.37
+Puerto Rico,35851,0.0125,North America,PRI,1.25
+Qatar,28591,0.0099,Asia,QAT,0.99
+Romania,423496,0.022,Europe,ROU,2.2
+Rwanda,188410,0.0145,Africa,RWA,1.45
+Saudi Arabia,452778,0.013,Asia,SAL,1.3
+Senegal,203874,0.0122,Africa,SEN,1.22
+Singapore,549903,0.094,Asia,SGP,9.4
+Slovakia,140249,0.0257,Europe,SVK,2.57
+Slovenia,50940,0.0245,Europe,SVN,2.45
+South Africa,4215944,0.0711,Africa,ZAF,7.11
+Spain,1173340,0.0251,Europe,ESP,2.51
+Sri Lanka,321641,0.015,Asia,LKA,1.5
+Sudan,101798,0.0091,Africa,SDN,0.91
+Suriname,5474,0.0093,South America,SUR,0.93
+Sweden,228309,0.0226,Europe,SWE,2.26
+Switzerland,157695,0.0182,Europe,CHE,1.82
+Thailand,3629713,0.052,Asia,THA,5.2
+Togo,131221,0.0159,Africa,TGO,1.59
+Trinidad and Tobago,16377,0.0117,North America,TTO,1.17
+Tunisia,122890,0.0104,Africa,TUN,1.04
+Turkey,2476418,0.0294,Asia,TUR,2.94
+Uganda,828022,0.0181,Africa,UGA,1.81
+Ukraine,5565881,0.1273,Europe,UKR,12.73
+United Arab Emirates,152077,0.0154,Asia,ARE,1.54
+Uruguay,50119,0.0144,South America,URY,1.44
+Uzbekistan,344047,0.0103,Asia,UZB,1.03
+Yemen,278315,0.0093,Asia,YEM,0.93
+Zambia,271781,0.0148,Africa,ZMB,1.48
+Russia,17379175,0.1191,Europe,RUS,11.91
+Venezuela,2941502,0.1034,South America,VEN,10.34
+USA,27491810,0.0831,North America,USA,8.31
+Vietnam,5961684,0.0612,Asia,VNM,6.12
+United Kingdom,3360591,0.0495,Europe,GBR,4.95
+South Korea,1942933,0.0379,Asia,KOR,3.79
+Hong Kong,245012,0.0327,Asia,HKG,3.27
+Czech Republic,238285,0.0223,Europe,CZE,2.23
+Iran,1649897,0.0196,Asia,IRN,1.96
+Bolivia,215461,0.0185,South America,BOL,1.85
+Tanzania,1095494,0.0183,Africa,TZA,1.83
+Republic of Serbia,151954,0.0174,Europe,SRB,1.74
+Moldova,54377,0.0135,Europe,MDA,1.35
+Ivory Coast,343067,0.013,Africa,CIV,1.3
+Macedonia,23639,0.0113,Europe,MKD,1.13
+Syria,177824,0.0102,Asia,SYR,1.02
+The Bahamas,3576,0.0091,North America,BHS,0.91
+Brunei,3979,0.0091,Asia,BRN,0.91
+Macao,5828,0.009,Asia,MAC,0.9
