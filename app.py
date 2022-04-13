@@ -11,9 +11,9 @@ import plotly.graph_objs as go
 import plotly.express as px
 
 # Import files
-crypto_owners = pd.read_csv('data\crypto_owners.csv')
-crypto_price = pd.read_csv('data\DF_pp.csv')
-crypto_mktcap = pd.read_csv('data\MKTCAP.csv')
+crypto_owners = pd.read_csv('data/crypto_owners.csv')
+crypto_price = pd.read_csv('data/DF_pp.csv')
+crypto_mktcap = pd.read_csv('data/MKTCAP.csv')
 
 total = float(crypto_mktcap['Market Cap_'].sum())
 
